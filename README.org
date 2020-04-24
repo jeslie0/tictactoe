@@ -1,0 +1,7 @@
+#+title: Noughts and Crosses
+#+description: This repository contains a basic Noughts and Crosses game.
+* Goals
+** Connectivity
+I want to implement a multiplayer version over the web, involving python sockets.
+** User Interface
+It would be nice to have a better UI, especially a better way to input moves (maybe mouse based?)
