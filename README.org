@@ -1,5 +1,5 @@
 #+title: Noughts and Crosses
-#+description: This repository contains a basic Noughts and Crosses game.
+This repository contains a basic Noughts and Crosses game.
 * Goals
 ** Connectivity
 I want to implement a multiplayer version over the web, involving python sockets.
